@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "mongodb",
-    "slug": "mongodb",
+    "name": "employee",
+    "slug": "employee",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
