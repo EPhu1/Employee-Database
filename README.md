@@ -3,10 +3,7 @@
 Employee Database made using React Native, MongoDB, NodeJS, Express, Mongoose.
 Currently starts by hosting a local host using nodemon, but can be hotswapped to remote host using ngrok.
 
-To run local server:
-1.) Open a command prompt.
-2.) Change to the server directory.
-3.) Run 'nodemon app'
+To run local server: Open a command prompt -> Change to the server directory -> Run 'nodemon app'
 
 ![1](https://user-images.githubusercontent.com/33469633/95931634-8dbdd200-0d7e-11eb-9456-a24e5153560e.png)
 
